@@ -113,6 +113,34 @@ zip -r archive.zip dir/
 unzip archive.zip
 ```
 
+## 压缩文件查看（不解压）
+
+```bash
+# 查看压缩文件内容
+zcat file.gz                     # 查看 gzip 文件（等价于 gunzip -c）
+zless file.gz                    # 分页查看 gzip 文件
+zgrep "pattern" file.gz          # 在 gzip 文件中搜索
+zdiff file1.gz file2.gz          # 比较两个 gzip 文件
+
+# bz2 格式
+bzcat file.bz2
+bzgrep "pattern" file.bz2
+
+# xz 格式
+xzcat file.xz
+
+# zstd 格式
+zstdcat file.zst
+
+# 查看 tar.gz / tar.bz2 内容（不解压）
+tar -tzf archive.tar.gz          # 列出 gzip 包内文件
+tar -tjf archive.tar.bz2         # 列出 bz2 包内文件
+
+# 结合管道使用
+zcat access.log.gz | grep "ERROR" | wc -l          # 统计日志中错误数
+zcat access.log.1.gz access.log.2.gz | grep "404"   # 同时查多个压缩日志
+```
+
 ## 其他实用命令
 
 ```bash

@@ -7,3 +7,5 @@
   - [Kubectl](./commands/kubectl.md)
 - [运维配置](./ops/README.md)
   - [Nginx](./ops/nginx.md)
+  - [Dockerfile](./ops/dockerfile.md)
+  - [Docker Compose](./ops/docker-compose.md)
