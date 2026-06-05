@@ -4,3 +4,4 @@
   - [Git](./commands/git.md)
   - [Docker](./commands/docker.md)
   - [Linux / Shell](./commands/linux.md)
+  - [Kubectl](./commands/kubectl.md)
