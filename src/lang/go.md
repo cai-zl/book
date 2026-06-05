@@ -41,6 +41,12 @@ go fmt ./...                # 格式化
 go install <package>@latest # 安装工具
 ```
 
+## 推荐学习资源
+
+- [Effective Go](https://go.dev/doc/effective_go) — 官方最佳实践
+- [Go by Example](https://gobyexample.com) — 示例驱动学习
+- [100 Go Mistakes](https://100go.co) — 常见错误及避免方法
+
 ## 常用框架/库
 
 | 类别 | 推荐 |

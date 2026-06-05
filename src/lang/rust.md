@@ -41,6 +41,14 @@ cargo doc --open             # 生成本地文档并打开
 cargo update                 # 更新依赖
 ```
 
+## 推荐学习资源
+
+- [The Rust Book (官方)](https://doc.rust-lang.org/book/) — 系统学习首选
+- [Rustlings](https://github.com/rust-lang/rustlings) — 小练习快速上手
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) — 示例驱动
+- [Too Many Lists](https://rust-unofficial.github.io/too-many-lists/) — 深入理解所有权
+- [Rust 设计模式](https://rust-unofficial.github.io/patterns/) — 惯用写法
+
 ## 常用框架/库
 
 | 类别 | 推荐 |

@@ -36,6 +36,12 @@ luarocks search <package>
 luarocks list              # 已安装的包
 ```
 
+## 推荐学习资源
+
+- [Programming in Lua (官方)](https://www.lua.org/pil/) — Roberto Ierusalimschy 编写
+- [Lua Tutorial (tutorialspoint)](https://www.tutorialspoint.com/lua/index.htm) — 快速入门
+- [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) — 速览语法
+
 ## 常见应用场景与框架
 
 | 场景 | 框架/工具 |

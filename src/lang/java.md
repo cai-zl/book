@@ -44,6 +44,13 @@ gradle bootJar          # Spring Boot 打包
 gradle dependencies     # 查看依赖
 ```
 
+## 推荐学习资源
+
+- [Baeldung](https://www.baeldung.com) — 高质量 Java 教程
+- [Java Point](https://www.javatpoint.com/java-tutorial) — 入门教程
+- [Effective Java (Joshua Bloch)](https://www.oreilly.com/library/view/effective-java/9780134686097/) — 进阶必读
+- [Java Concurrency in Practice](https://jcip.net) — 并发编程
+
 ## 常用框架/库
 
 | 类别 | 推荐 |

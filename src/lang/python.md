@@ -26,6 +26,13 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
+## 推荐学习资源
+
+- [Python Tutorial (官方)](https://docs.python.org/3/tutorial/) — 入门首选
+- [Real Python](https://realpython.com) — 高质量教程
+- [Python Cookbook](https://python3-cookbook.readthedocs.io) — 实用技巧合集
+- [Awesome Python](https://awesome-python.com) — 资源汇总
+
 ## 常用框架/库
 
 | 类别 | 推荐 |

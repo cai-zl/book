@@ -62,6 +62,22 @@ make
 make clean
 ```
 
+## 推荐学习资源
+
+### C
+
+- [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language) — 经典中的经典
+- [Modern C (Jens Gustedt)](https://gustedt.gitlabpages.inria.fr/modern-c/) — 现代 C 写法
+- [Learn C (learn-c.org)](https://www.learn-c.org) — 在线交互教程
+
+### C++
+
+- [C++ Primer (Lippman)](https://www.informit.com/store/c-plus-plus-primer-9780321714114) — 全面入门
+- [A Tour of C++ (Stroustrup)](https://www.stroustrup.com/tour2.html) — 快速概览
+- [Effective Modern C++ (Scott Meyers)](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) — 现代 C++ 最佳实践
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) — 官方编码规范
+- [Learn C++ (learncpp.com)](https://www.learncpp.com) — 免费在线教程
+
 ## 常用库
 
 | 类别 | C | C++ |

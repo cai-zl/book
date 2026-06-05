@@ -29,6 +29,13 @@ npx tsc --noEmit         # 仅类型检查（不输出文件）
 npx tsc -p tsconfig.json # 指定配置文件
 ```
 
+## 推荐学习资源
+
+- [TypeScript Handbook (官方)](https://www.typescriptlang.org/docs/handbook/) — 入门必读
+- [Type Challenges](https://github.com/type-challenges/type-challenges) — 类型体操练习
+- [Matt Pocock's Total TypeScript](https://www.totaltypescript.com) — 进阶教程
+- [TypeScript 入门教程](https://ts.xcatliu.com) — 中文入门
+
 ## 常用框架/库
 
 | 类别 | 推荐 |
