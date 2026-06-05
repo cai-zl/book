@@ -1,1 +1,19 @@
-book
+# mdBook build output
+book/
+
+# Claude Code
+.claude/
+
+# Codegraph
+.codegraph/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
