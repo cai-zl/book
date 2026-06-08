@@ -18,6 +18,8 @@
   - [Dockerfile](./ops/dockerfile.md)
   - [Docker Compose](./ops/docker-compose.md)
   - [实用 Docker 镜像](./ops/docker-images.md)
+- [网络工具](./network/README.md)
+  - [抓包工具](./network/capture.md)
 - [AI](./ai/README.md)
   - [Claude Code](./ai/claude-code.md)
   - [插件](./ai/plugins.md)
