@@ -67,6 +67,20 @@ git reset --hard HEAD~1
 git commit --amend -m "new message"
 ```
 
+## 文件回滚
+
+```bash
+# 回滚单个文件到指定提交版本
+git checkout <commit> -- <file>
+git restore --source=<commit> <file>
+
+# 示例：回滚 config.yaml 到上一次提交
+git restore --source=HEAD~1 config.yaml
+
+# 回滚文件到某个历史版本（不自动提交）
+git show <commit>:<file> > <file>
+```
+
 ## 暂存工作区
 
 ```bash
